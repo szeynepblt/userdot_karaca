@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "karacabuybox",
+    "private_key_id": "edd54f9c3969e134df43c69f8f83644236f94b6a",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCr+DfS2l2VjuNQ\ntstlDczxz0e4eFpCqr6smgiYYkOEMCvqE6rmu0revon0v94Tun5TWpGiPfUpXdL6\n+IMHH6P8i4eIihXOqxoLcm97fb2vegLLsdLfM6ZWXegPP/FA1+YhTA3r2HLL2EXB\nqCVZlm2o/JV3+P39f1zQmao58hJRWOLfDsfaNwbZHUX7J9E5/jFDhPudIJNSsRUU\n9P3jIgvGSIwDFHJbC31nOhZH4meV5JuD1Mjt1eGPb68WFPCyj1eSZl/WdWKJKloN\n1R4gT3tfWft2toyVRfFoW+jd8Np9XeNemC/+nT28l9+jO7YzsMvM1ubTydD92yb7\ndJyqi9ATAgMBAAECggEAF9JyNTi/pwScs6UmxtBjGAotNr4hTsPlVvadgzJ1hN3B\nb5Ma5QyD4hhF9wwPIO+AKV7N9sobaIgRPmfniriU2Fqhw0XRoIfuOzC2hcZU3PaL\nZZk0C2xVufgXOemTK3bc77bf5NBekqNagmmfBuqCNVsL/4sT8CZQ/qqSvKUuaWsq\n1bugVCxv2lzqWD6nLB6rAHskmYoNrrkXk2khzAkBzaW5ICNXG/UWTpj8bItN88RJ\n5w161qSvA9f4PWKD+RJv05ZwvZH0pxngyJTgKdHG+4rdNmREL62VFzmiwM6PgwwC\nn/Zc9ad9O++RpCH2QFZRh8cilw68u5jxNuc0SP+0QQKBgQDnV0sGDIL2sTQIB/+e\n06ieNcUIPD6o8Tt0VtYC8iMKtewcpUOYqpVtWL92rRbFV2/5JltwJuWLGRxHINSh\nK7wjuaUeBmb/EJrrw+OgqibTjRaa7OdPs/qHYG0nBEgxU8aYIkch4exH4OKjZAdA\nGJFWU2zCB3Xh5eBpgjQ6tdc7QQKBgQC+TNS3eXPwYcCzZ/gmI8pTrGPzamUov3rH\noNhZ7FzsfR81WhvSut//Ox9/2jF8oAs1m6euEvYZkRnHtciHCG2FiXs+vSEl+4b9\nFk6xe3Y4mPQ+tP8A/O+Flhphgv77QmQUoUgas8Qf2RAWtYJACn924ajnOKhA3B+L\nYiUm1P8aUwKBgE5YxuS2igfn/XoW02BDyGBET4U5efMXN45v9iyrOmjfMaaF5b2n\nT9Hnc3hKqGKO+TIE5oS195lDGMuR99DZke77aUsg2fLZ+c2M2uNHnLyalKRFRRU+\nG8OLSYwkLBrgh2pweWylKbMyGy9Aqh/v8hCtUjDn++lUQ8sXuH6FpO3BAoGBAIwE\nQ87rUd7gTcSzDuYhF1ERWklTUzL0EAap1gXz3zsxpLDAqBAY548HlVmg1SB5MUY0\nTN/Lm7+b/3ftzKluDgde7Itw5N7pfpzguO3lhUqHX85zpdy4PhPwKWDt3WZJpxF2\nyXK8KeW09B2BV2B/WOHDj17xVPrD+4G2qNc1iK15AoGBAMmDZUEkrdjtH1e+iegb\nKAZ2bgDT/+ND3oQGdwTxWOB/+0hU4CKfE9lfttjUoIgTZUd16rIN9Dy620+hQYzg\n2K4vTpokb50IX3VctmxqwoCK4nT7HtEEtFHYZOHi8sQFvtXq3SwVtymluzrr5SXa\nMc3raeGxeN/2Hen1F1S7Bzbn\n-----END PRIVATE KEY-----\n",
+    "client_email": "karacabuybox@karacabuybox.iam.gserviceaccount.com",
+    "client_id": "113618589494816386800",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/karacabuybox%40karacabuybox.iam.gserviceaccount.com"
+  }
